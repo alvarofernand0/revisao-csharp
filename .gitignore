@@ -516,3 +516,7 @@ $RECYCLE.BIN/
 # Ignore all local history of files
 .history
 .ionide
+
+# Pastas de build do .NET
+bin/
+obj/
