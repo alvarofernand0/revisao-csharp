@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soma-simples", "soma-simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-livro", "classe-livro\classe-livro.csproj", "{323B4E5D-FDDE-4A5F-91D9-AAAD05FCE7C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-carro", "classe-carro\classe-carro.csproj", "{698D4BE3-184C-4F22-AD8D-C31E433B2D55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{323B4E5D-FDDE-4A5F-91D9-AAAD05FCE7C4}.Release|x64.Build.0 = Release|Any CPU
 		{323B4E5D-FDDE-4A5F-91D9-AAAD05FCE7C4}.Release|x86.ActiveCfg = Release|Any CPU
 		{323B4E5D-FDDE-4A5F-91D9-AAAD05FCE7C4}.Release|x86.Build.0 = Release|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Debug|x64.Build.0 = Debug|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Debug|x86.Build.0 = Debug|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Release|x64.ActiveCfg = Release|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Release|x64.Build.0 = Release|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Release|x86.ActiveCfg = Release|Any CPU
+		{698D4BE3-184C-4F22-AD8D-C31E433B2D55}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

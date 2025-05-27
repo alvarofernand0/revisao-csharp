@@ -1,6 +1,5 @@
 
 using System;
-using System.Security.Cryptography;
 
 namespace classe_livro
 {
