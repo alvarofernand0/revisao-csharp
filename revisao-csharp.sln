@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-carro", "classe-carr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-produto", "classe-produto\classe-produto.csproj", "{BAAA0AD7-BAC1-4FD7-AACB-1EFF07D50172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-retangulo", "classe-retangulo\classe-retangulo.csproj", "{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{BAAA0AD7-BAC1-4FD7-AACB-1EFF07D50172}.Release|x64.Build.0 = Release|Any CPU
 		{BAAA0AD7-BAC1-4FD7-AACB-1EFF07D50172}.Release|x86.ActiveCfg = Release|Any CPU
 		{BAAA0AD7-BAC1-4FD7-AACB-1EFF07D50172}.Release|x86.Build.0 = Release|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Debug|x64.Build.0 = Debug|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Debug|x86.Build.0 = Debug|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Release|x64.ActiveCfg = Release|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Release|x64.Build.0 = Release|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Release|x86.ActiveCfg = Release|Any CPU
+		{72CBFF2D-D7ED-4702-BF06-DDA6863C068B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
