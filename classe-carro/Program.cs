@@ -9,7 +9,9 @@ class Program
         string cor = Console.ReadLine();
         bool ligado;
 
-        Carro c1 = new Carro(modelo, cor, ligado);
+        Carro c1 = new Carro(modelo, cor);
         c1.MostrarStatus();
+        c1.Ligar();
+        c1.Desligar();
     }
 }

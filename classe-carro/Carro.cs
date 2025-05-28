@@ -6,13 +6,12 @@ namespace classe_carro
     {
         public string Modelo { get; set; }
         public string Cor { get; set; }
-        public bool Ligado { get; set; }
+        private bool Ligado { get; set; }
 
-        public Carro(string modelo, string cor, bool ligado)
+        public Carro(string modelo, string cor)
         {
             Modelo = modelo;
             Cor = cor;
-            Ligado = ligado;
         }
 
         public void Ligar()
@@ -29,7 +28,16 @@ namespace classe_carro
 
         public void MostrarStatus()
         {
-            System.Console.WriteLine($"Carro Modelo: {Modelo}, da Cor {Cor}, Está {Ligado}!");
+            System.Console.WriteLine($"Carro Modelo: {Modelo}, da Cor {Cor}");
+
+            if (Ligado == false)
+            {
+                Desligar();
+            }
+            else
+            {
+                Ligar();
+            }
         }
     }
 }
