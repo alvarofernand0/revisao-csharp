@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-conta-bancaria", "cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-cachorro", "classe-cachorro\classe-cachorro.csproj", "{4834D3B6-5852-482C-A2E6-3D0DDD72A263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classe-musica", "classe-musica\classe-musica.csproj", "{05921135-44F4-4541-8A2A-11BEA8CD55B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{4834D3B6-5852-482C-A2E6-3D0DDD72A263}.Release|x64.Build.0 = Release|Any CPU
 		{4834D3B6-5852-482C-A2E6-3D0DDD72A263}.Release|x86.ActiveCfg = Release|Any CPU
 		{4834D3B6-5852-482C-A2E6-3D0DDD72A263}.Release|x86.Build.0 = Release|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Debug|x64.Build.0 = Debug|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Release|x64.ActiveCfg = Release|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Release|x64.Build.0 = Release|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{05921135-44F4-4541-8A2A-11BEA8CD55B1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
