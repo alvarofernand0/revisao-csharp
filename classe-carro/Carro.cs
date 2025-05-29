@@ -12,6 +12,7 @@ namespace classe_carro
         {
             Modelo = modelo;
             Cor = cor;
+            Ligado = false;
         }
 
         public void Ligar()
